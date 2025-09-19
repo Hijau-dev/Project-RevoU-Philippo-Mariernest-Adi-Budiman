@@ -1,2 +1,2 @@
-# Project-RevoU-Philippo-Mariernest-Adi-Budiman
+# Project RevoU - Philippo Mariernest Adi Budiman
 Hai, This is my first Project.
